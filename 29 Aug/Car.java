@@ -47,7 +47,7 @@ class Car
 		c2.year=2021;
 		c2.price=700000;
 		
-		//calling the printDetails method
+		//printing the display value of car
 		c1.displayValue();
 		c2.displayValue();
 			
