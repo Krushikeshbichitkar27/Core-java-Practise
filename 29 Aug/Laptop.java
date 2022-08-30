@@ -31,6 +31,8 @@ void inputDetails()
 	price=price;
        
 }
+class LaptopTest
+{
 //calling main method
 	public static void main(String ...args)
 	{
@@ -45,4 +47,5 @@ void inputDetails()
 		c1.inputDetails();
 		
 	}
+}
 }
