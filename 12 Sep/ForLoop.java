@@ -14,7 +14,7 @@ class ForLoop
 	 int i;
   for(int i=0;i<=t; i++) //giving condition
   {
-	  System.out.println(i)
+	  System.out.println(i);
   }
  }
  //creating method printTable
