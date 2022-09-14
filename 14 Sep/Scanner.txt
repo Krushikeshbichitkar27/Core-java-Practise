@@ -1,0 +1,23 @@
+/*
+@ Program:  scanner class
+packages :
+collection of classes residing under one roof
+java.lang.*
+java.io.*
+
+lang.io : packages
+classes:lang
+
+date
+java.sql.Date : database handling : standard Query Language
+java.util.Date: Utility :Date
+java.net
+java.lang
+java.io
+
+custom packages:
+package com.example;  class Student
+package com.test   class Student    import com.example.Student;
+
+if we want to import all classes : import java.util.*
+if we want to import only date class : import java.util.*
